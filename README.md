@@ -1,2 +1,5 @@
-# Sample code for Internet Of Things, cloud and analytics related work.
-Most of this code is part of my learning about related technology.
+# Sample code about my learnings
+Most of learning is related to 
+ # IOT
+ # Intelligent application/cognitive services
+ # Cloud Technology
